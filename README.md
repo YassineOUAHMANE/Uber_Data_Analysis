@@ -14,12 +14,17 @@ Transforming the data into fact and dimension tables offers several key advantag
 
 ## 📊 Project Features
 -Data Manipulation: Leveraged fact tables to record ride details (like trip distance, fare amount, etc.) and dimension tables for contextual data (like datetime, locations, and passenger information).
+
+
 -Interactive Visualization: Created a comprehensive map visualizing each trip, showcasing distance traveled and total fare.
 
 ## 🔧 Technologies Used
 -Programming Language: Python
+
 -Data Processing: Pandas
+
 -Visualization: Folium,plotly.express
+
 Tools: Jupyter Notebook,dbdiagram.io
 
 
