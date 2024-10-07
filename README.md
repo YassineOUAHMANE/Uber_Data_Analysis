@@ -2,6 +2,7 @@
 ## 🚀 Overview
 Welcome to the Uber Data Analysis Project!🚖📊 This project aims to provide insights into Uber's ride-sharing data using a dimensional modeling approach, specifically leveraging fact tables and dimension tables.
 ### Advantages of Dimensional Modeling
+
 Transforming the data into fact and dimension tables offers several key advantages:
 
 -Data Organization📂: Fact tables capture quantitative data (like total amount,extra...) while dimension tables provide contextual information (like datetime, locations, and passenger details). This separation simplifies data management and enhances clarity.
@@ -26,5 +27,7 @@ Transforming the data into fact and dimension tables offers several key advantag
 -Visualization: Folium,plotly.express
 
 Tools: Jupyter Notebook,dbdiagram.io
+
+
 
 
