@@ -1,6 +1,8 @@
 # Uber Data Analysis Project 🚖
 ## 🚀 Overview
 Welcome to the Uber Data Analysis Project!🚖📊 This project aims to provide insights into Uber's ride-sharing data using a dimensional modeling approach, specifically leveraging fact tables and dimension tables.
+## Project structure 
+![Project structure](Project_Structure.JPG)
 ### Advantages of Dimensional Modeling
 ![Dimensional Modeling](Data_model.png)
 Transforming the data into fact and dimension tables offers several key advantages:
