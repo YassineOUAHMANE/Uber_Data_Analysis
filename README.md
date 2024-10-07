@@ -30,7 +30,7 @@ Transforming the data into fact and dimension tables offers several key advantag
 
 Tools: Jupyter Notebook,dbdiagram.io
 
-# Visualisation 
+# 🗺️  Visualisation 
 ![Visualisation map](Map_Picture.JPG)
 
 
